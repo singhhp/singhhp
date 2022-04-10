@@ -1,8 +1,5 @@
-### Hi there 👋
-![Hello Devs!](https://github.com/singhhp/singhhp/blob/main/header.png)
 
-<!--
-**singhhp/singhhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hello Devs!](https://github.com/singhhp/singhhp/blob/main/header.png)
 
 Here are some ideas to get you started:
 
@@ -10,6 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cross Platform Development 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : Building project 
-- 📫 How to reach me: @insta : hp_singh_21
+- 📫 How to reach me: Link Tree:![Link_](https://linktr.ee/singhhp)
 - 😄 Pronouns: He/Him
 -->
