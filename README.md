@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github.com/singhhp/singhhp/blob/main/header.png
+![Hello Devs!](https://github.com/singhhp/singhhp/blob/main/header.png)
+
 <!--
 **singhhp/singhhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
